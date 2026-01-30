@@ -1,0 +1,56 @@
+/* This styles the whole page */
+
+body {
+
+    background-color: #87ab91; /* dull avocado green background */
+
+    font-family: Verdana, sans-serif;
+
+    color: #1d2b21; /* Dark gray text */
+
+    margin: 40px;
+
+}
+
+ 
+
+/* This styles your headings */
+
+h1 {
+
+    color: darkblue;
+
+    border-bottom: 2px solid black;
+
+    text-transform: uppercase;
+
+}
+
+h2 {
+
+    color: #452506;
+
+}
+
+h3 {
+
+    color: #3d1432;
+
+}
+
+h4 {
+
+    color: #006b30;
+
+}
+ 
+
+/* This styles the paragraphs */
+
+p {
+
+    font-size: 18px;
+
+    line-height: 1.6;
+
+}
